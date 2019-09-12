@@ -1,0 +1,31 @@
+{
+    "name": "Magibit",
+    "version": "1.1.0",
+    "description": "Magibit package for Micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "libs/MiNode.h",
+        "libs/MiNodeComponent.h",
+        "libs/MiNodeComponent.cpp",
+        "libs/MiNodeConn.h",
+        "libs/MiNodeConn.cpp",
+        "libs/MiNodeIO.h",
+        "libs/MiNodeIO.cpp",
+        "libs/MiNodeModulePool.h",
+        "libs/MiNodeDHT11.cpp",
+        "libs/MiNodeDHT11.h",
+        "libs/minode.cpp",
+        "enums.d.ts",
+        "_locales/zh/Magibit-strings.json",
+        "_locales/zh/Magibit-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
