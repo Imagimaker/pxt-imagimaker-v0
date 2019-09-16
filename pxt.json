@@ -1,7 +1,7 @@
 {
     "name": "Magibit",
-    "version": "1.1.0",
-    "description": "Magibit package for Micro:bit",
+    "version": "0.1.2",
+    "description": "Old version of Magibit package for pxt-microbit",
     "license": "MIT",
     "dependencies": {
         "core": "*"
