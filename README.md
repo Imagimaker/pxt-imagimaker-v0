@@ -1,6 +1,9 @@
 # Old version of Magishield package for pxt-microbit
-## if you want to get the latest library ,go for `pxt-imagimaker`
-# A Magishield Library for PXT Micro:bit
+
+if you want to get the latest library ,go for `pxt-imagimaker`
+
+A Magishield Library for PXT Micro:bit
+
 version: v0.1.2
 
 http://docs.imagimaker.com/
